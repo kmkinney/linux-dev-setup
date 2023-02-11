@@ -1,0 +1,8 @@
+# Example for setting useful bash aliases
+# Copy this file to ~/.bash_aliases
+# Add the line
+# source ~/.bash_aliases
+# to your .bashrc
+
+alias py="python3"
+alias ll="ls -alF"
